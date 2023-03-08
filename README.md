@@ -1,4 +1,6 @@
-### Olá, Eu sou o Abner Oliveira 👋
+### Olá, seja bem-vindo(a) ao meu perfil no GitHub! Meu nome é Abner Oliveira 👋
+
+Sou técnico em desenvolvimento de sistemas com experiência em desenvolvimento de APIs backend. Atualmente, estou estagiando em uma empresa onde trabalho com tecnologias como C# e SQL, além de criar APIs REST e gRPC. Aqui no meu perfil, você poderá encontrar alguns dos projetos que desenvolvo em meu tempo livre, bem como exemplos de códigos que escrevo. Fique à vontade para explorar e entrar em contato caso queira saber mais!
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
