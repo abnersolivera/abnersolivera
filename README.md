@@ -26,6 +26,8 @@ Sou técnico em desenvolvimento de sistemas com experiência em desenvolvimento 
     <a href="https://www.linkedin.com/in/abner-oliveira-917182236/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abner-oliveira-917182236" height="30" width="40" />
     </a>
+    <a href = "mailto:abnersanto2014@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/abnersantooliveira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
 <div align="center">
   <a href="https://github.com/abnersolivera">
@@ -111,11 +113,5 @@ Sou técnico em desenvolvimento de sistemas com experiência em desenvolvimento 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abnersolivera&show_icons=true&locale=en" alt="abnersolivera" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abnersolivera&" alt="abnersolivera" /></p>
-   
-  <a href="https://instagram.com/abnersantooliveira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<!--<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>-->
-  <a href = "mailto:abnersanto2014@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <!--<a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>-->
   </div>
 </div>
