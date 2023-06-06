@@ -98,11 +98,9 @@ Sou Técnico em Desenvolvimento de Sistemas com experiência em desenvolvimento 
     </a> 
 </p>
 </div>
-<div>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abnersolivera&show_icons=true&locale=en&layout=compact" alt="abnersolivera" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abnersolivera&show_icons=true&locale=en&layout=compact"       alt="abnersolivera" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abnersolivera&show_icons=true&locale=en" alt="abnersolivera" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abnersolivera&" alt="abnersolivera" /></p>
-  </div>
-</div>
