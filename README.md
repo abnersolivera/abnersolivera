@@ -14,8 +14,8 @@ Sou Técnico em Desenvolvimento de Sistemas com experiência em desenvolvimento 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/abner-oliveira-917182236/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abner-oliveira-917182236" height="30" width="40" />
+    <a href="https://www.linkedin.com/in/abner-oliveira-dev/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abner-oliveira-dev" height="30" width="40" />
     </a>
     <a href = "mailto:abnersanto2014@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/abnersantooliveira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
